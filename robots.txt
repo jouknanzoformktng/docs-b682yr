@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-c4p2k5.radicalvixen.com/sitemap.xml
